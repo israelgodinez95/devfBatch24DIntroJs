@@ -16,5 +16,5 @@ var b=5;
 var c=8;
 var c=19;
 
-var suma=b+a;
+var suma= b + a;
 console.log(suma);
